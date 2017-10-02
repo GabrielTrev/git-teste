@@ -1,4 +1,6 @@
 	- Algum título
 - Algum tópico
 
+## Bug
+
 *Obs: alguma observação
